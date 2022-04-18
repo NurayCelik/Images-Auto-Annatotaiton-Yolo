@@ -1,2 +1,2 @@
 # Images-Auto-Annotation-Yolo
-Images Auto Annatotaiton Cvat - Yolo Format - OpenCV
+Images Auto Annotation Cvat - Yolo Format - OpenCV
