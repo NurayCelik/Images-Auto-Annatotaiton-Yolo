@@ -1,5 +1,5 @@
 # Images-Auto-Annotation-Yolo
-Images Auto Annotation Cvat - Yolo Format - OpenCV
+Images Auto Annotation CVAT - Yolo Format - OpenCV
 
 
 video_spliy.py - > We divide the videos into the minutes we want (300 sec = 5 minutes by specifying in the times.txt file) to work more easily.
