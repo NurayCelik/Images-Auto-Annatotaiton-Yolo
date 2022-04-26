@@ -39,7 +39,7 @@ def imageLabelling(readfile):
    
     img_blob = cv2.dnn.blobFromImage(img, 0.00392, (608,608),(0, 0, 0),swapRB=True, crop=False)
 
-    labels = ["person","car gozluk"]
+    labels = ["person","car", "gozluk"]
 
          
     colors = ["0,0,255","0,0,255","255,0,0","255,255,0","0,255,0"]
