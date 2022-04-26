@@ -1,11 +1,4 @@
 
-"""
-Created on Mon Mar 14 06:42:46 2022
-
-@author: casper
-"""
-
-
 import cv2
 import numpy as np
 import os, shutil
