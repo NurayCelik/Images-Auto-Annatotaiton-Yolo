@@ -1,8 +1,3 @@
-"""
-Created on Thu Oct 21 10:40:49 2021
-
-@author: eventgates
-"""
 
 import cv2
 import numpy as np
